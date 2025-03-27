@@ -1,6 +1,6 @@
  Terraform + Ansible VM Automation  
 
-### 🖥 Streamlining Virtual Machine Provisioning with Terraform & Ansible  
+### Streamlining Virtual Machine Provisioning with Terraform & Ansible  
 
 This project leverages **Terraform** for infrastructure automation and **Ansible** for configuration management, enabling seamless VirtualBox VM provisioning. The goal is to eliminate manual setup and standardize deployments using Infrastructure as Code (IaC).  
 
@@ -14,7 +14,7 @@ This project leverages **Terraform** for infrastructure automation and **Ansible
 
 ---
 
-## 📂 Project Structure  
-📂 terraform-ansible-vm-automation │── 📜 main.tf # Terraform script for VM provisioning │── 📜 playbook.yml # Ansible playbook for automated setup │── 📜 inventory # Ansible inventory file │── 📜 README.md # Project documentation
+##  Project Structure  
+ terraform-ansible-vm-automation │──  main.tf # Terraform script for VM provisioning │──  playbook.yml # Ansible playbook for automated setup │──  inventory # Ansible inventory file │──  README.md # Project documentation
 
 
